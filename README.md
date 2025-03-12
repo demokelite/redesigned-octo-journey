@@ -1,5 +1,5 @@
 # redesigned-octo-journey
-## 4K 壁纸下载器
+## wallpaperDownloader 4K 壁纸下载器
 #### 简介 
 #### 这是一个使用 Python 编写的 4K 壁纸下载器，基于 Tkinter 开发的图形用户界面应用，能够从指定网站下载高质量壁纸并保存到本地。
 #### 功能特点
